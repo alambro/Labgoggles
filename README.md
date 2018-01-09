@@ -15,7 +15,7 @@
 <ul>
     <li><a href="#">Home</a></li>
     <li><a href="#"> molecules </a></li>
-    <li><a href="#"> Reactions </a></li>
+    <li><a href="Labgoggles/Reactions "> Reactions </a></li>
     <li><a href="#">FUN!?</a></li>
     
 </ul>
